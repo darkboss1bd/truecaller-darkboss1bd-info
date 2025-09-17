@@ -22,5 +22,5 @@ python3 truecaller-darkboss1bd-info..py
 
 👤 **Darkboss1bd Ak47**
 
-* Github: [@Sl-dark-En](https://github.com/darkboss1bd)
-* Telegram: [@Sl_darkvaiadmin_En](https://t.me/darkvaiadmin)
+* Github: [@Dl-dark-En](https://github.com/darkboss1bd)
+* Telegram: [@Tg_darkvaiadmin_En](https://t.me/darkvaiadmin)
